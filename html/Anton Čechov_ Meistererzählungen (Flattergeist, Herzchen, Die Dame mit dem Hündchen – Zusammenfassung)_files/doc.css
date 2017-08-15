@@ -1,0 +1,112 @@
+* {
+    font-size: 11pt;
+    font-family: serif;
+}
+
+body {
+    padding: 1em;
+    margin: 0;
+}
+
+h1,h2 {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 18pt;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2.subtitle {
+    font-size: 13pt;
+    text-align: center;
+}
+
+h3 {
+    font-size: 13pt;
+    margin-top: 16pt;
+    margin-bottom: 0;
+}
+
+h4 {
+    font-size: 11pt;
+    margin-top: 13pt;
+    margin-bottom: 0;
+}
+
+p {
+    text-align: justify;
+    margin: 6.5pt 0;
+    line-height: 130%;
+}
+
+p.date {
+    font-size: 9pt;
+}
+
+hr {
+    width: 30%;
+    height: 1px;
+    background-color: black;
+    margin: 1.5em auto;
+}
+
+strong {
+    font-weight: normal;
+    font-variant: small-caps;
+    font-size: 10pt;
+}
+
+blockquote {
+    margin: 6.5pt auto 13pt auto;
+    text-align: justify;
+    width: 75%;
+    line-height: 130%;
+}
+
+blockquote>p {
+    margin: 0;
+    text-align: right;
+}
+
+li {
+    margin: 6.5pt 0;
+}
+
+ul.quotes {
+    margin: 0;
+}
+
+ul.quotes li {
+    margin: 6.5pt 0 26pt 0;
+    list-style-type: none;
+    width: 100%;
+}
+
+ul.quotes li,ul.quotes li>p {
+    text-align: center;
+}
+
+p.counter {
+    font-style: italic;
+}
+
+span.tt, pre {
+    font-family: monospace;
+    font-size: 80%;
+}
+
+pre {
+    background-color: #ddd;
+    padding: 0.5em;
+}
+
+/*
+     FILE ARCHIVED ON 19:36:10 Dec 29, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:32:38 Aug 15, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

@@ -1,0 +1,118 @@
+body {
+	max-width: 45em;
+	margin: 0 auto;
+	padding: 0 0.5em;
+	background-color: #fafafa;
+	color: #222;
+	font-family: serif;
+	font-size: 14pt;
+	font-family: serif;
+}
+
+h1, h2, h3 {
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 200%;
+}
+
+h2.subtitle {
+	text-align: center;
+	font-size: 100%;
+	margin: 14pt 0 0 0;
+}
+
+h2 {
+	font-size: 120%;
+	margin: 32pt 0 14pt 0;
+}
+
+h3 {
+	font-size: 100%;
+	margin: 24pt 0 14pt 0;
+}
+
+p {
+	line-height: 1.8;
+	margin: 14pt 0;
+	text-align: justify;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+}
+
+p.date {
+	font-size: 80%;
+}
+
+p.author {
+	text-align: center;
+	line-height: 150%;
+	margin-bottom: 24pt;
+}
+
+hr {
+	width: 30%;
+	height: 1px;
+	background-color: black;
+	margin: 1.5em auto;
+}
+
+li {
+	margin: 4pt 0;
+}
+
+code {
+	font-size: 80%;
+	background-color: #eee;
+	padding: 0.25em;
+}
+
+h1>code, h2>code, h3>code {
+	font-size: 100% !important;
+	background-color: #fafafa;
+}
+
+pre {
+	font-family: monospace;
+	background-color: #eee;
+	padding: 0.5em;
+	font-size: 66%;
+}
+
+blockquote {
+	margin: 0 2em;
+	text-align: justify;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+}
+
+div.quotesource {
+	margin: 0 2em;
+	text-align: right;
+}
+
+a:link {
+	color: #444;
+}
+
+a:visited {
+	color: #888;
+}
+
+a:hover {
+	color: #666;
+}
+
+a:active {
+	color: #aaa;
+}
+/*
+     FILE ARCHIVED ON 22:14:37 Apr 07, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:43:11 Aug 15, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

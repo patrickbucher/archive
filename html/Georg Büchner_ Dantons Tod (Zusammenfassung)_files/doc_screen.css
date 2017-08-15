@@ -1,0 +1,36 @@
+div#root {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.author {
+    display: none;
+}
+
+h2.subtitle {
+    margin-bottom: 22pt;
+}
+
+div#footer {
+    margin: 12pt 0;
+    border-top: 1px solid black;
+}
+
+div#footer .right {
+    float: right;
+    width: 50%;
+    text-align: right;
+}
+
+div#footer .left {
+    text-align: left;
+    margin-right: 50%;
+}
+/*
+     FILE ARCHIVED ON 19:08:48 Dec 29, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:32:38 Aug 15, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
